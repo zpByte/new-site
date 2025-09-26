@@ -1,0 +1,17 @@
+title: 张芃的站点
+description: 写点我在做/在想的
+theme: minima
+
+# 重要：项目页需要设置 url + baseurl
+url: "https://<username>.github.io"
+baseurl: "/<repo>"        # 仓库名，前面要有斜杠
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# （可选）导航
+minima:
+  skin: classic
+  social_links:
+    - { platform: github,  user_url: "https://github.com/<username>" }
