@@ -3,8 +3,8 @@ description: 写点我在做/在想的
 theme: minima
 
 # 重要：项目页需要设置 url + baseurl
-url: "https://<username>.github.io"
-baseurl: "/<repo>"        # 仓库名，前面要有斜杠
+url: "https://zpByte.github.io"
+baseurl: "/new-site"        # 仓库名，前面要有斜杠
 
 plugins:
   - jekyll-feed
